@@ -5,7 +5,7 @@ h1{
   }
  
   .background{
-    background: url('../images/cutedog.png') no-repeat center center/cover;
+    background: url('../Images/cutedog.png') no-repeat center center/cover;
     position: absolute;
     top: -20px;
     bottom: -20px;
